@@ -1,0 +1,10 @@
+gym
+pyglet==1.5.0
+PILLOW
+imageio
+pybullet
+matplotlib
+pyvirtualdisplay
+tensorflow-gpu
+tf-agents
+tensorflow-probability

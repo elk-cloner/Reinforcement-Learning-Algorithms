@@ -1,0 +1,3 @@
+Dockerfile
+papers/*
+*.DS_Store

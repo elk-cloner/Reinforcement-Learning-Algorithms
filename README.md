@@ -13,3 +13,4 @@ Just trying to implement some RL algorithms
 8. [ ] Distributional DQN
 9. [ ] Noisy DQN
 10. [ ] Rainbow
+11. [ ] Reinforce (policy search)
