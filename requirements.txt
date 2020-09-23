@@ -1,5 +1,5 @@
 gym
-pyglet==1.5.0
+pyglet==1.4.0
 PILLOW
 imageio
 pybullet
@@ -8,3 +8,7 @@ pyvirtualdisplay
 tensorflow-gpu
 tf-agents
 tensorflow-probability
+setuptools
+ez_setup
+gym-retro
+git+https://github.com/MaxStrange/retrowrapper.git

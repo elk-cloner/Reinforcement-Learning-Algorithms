@@ -1,0 +1,18 @@
+{
+    "python.pythonPath": "/Users/reza/anaconda3/envs/ai/bin/python",
+    "sync-rsync.shell": "ssh -p 8889",
+    "sync-rsync.remote": "reza@164.132.117.33:/home/reza/Documents/projects/Reinforcement-Learning-Algorithms",
+    "sync-rsync.local": "/Users/reza/Documents/work/Reinforcement-Learning-Algorithms",
+    "sync-rsync.onSave": true,
+    "sync-rsync.onSaveIndividual": true,
+    "sync-rsync.executableShell": "/bin/zsh",
+    "sync-rsync.args": [
+        "--exclude=.vscode",
+        "--exclude=.git",
+        "--exclude=.gitignore",
+        "--exclude='*.png'",
+        "--exclude='*.pdf'",
+        "--exclude='*.csv'",
+        "--exclude=papers"
+    ]
+}
