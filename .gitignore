@@ -1,3 +1,4 @@
 Dockerfile
 papers/*
 *.DS_Store
+*.md
